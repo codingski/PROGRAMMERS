@@ -13,9 +13,10 @@
 //My code
 
 function solution(n){
+    var N = String(n);
     var result = [];
-    for(var i = 0; i < n.length; i++){
-        result[i] = n[n.length - 1];
+    for(var i = 0; i < N.length; i++){
+        result[i] = Number(N[N.length - 1 - i]);
     }
     return result;
 }
