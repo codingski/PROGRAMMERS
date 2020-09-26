@@ -1,4 +1,4 @@
-// 020. 09. 22 미완성.. 
+// 020. 09. 22 여전히 미완성.. 
 
 function solution(n){
     var result = [];
