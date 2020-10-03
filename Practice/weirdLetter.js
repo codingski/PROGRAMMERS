@@ -6,7 +6,6 @@ function solution(s){
             array = array[i].replace(array[i][j * 2], array[i][j * 2].toUpperCase());
         }
     }
-
     return array;
 }
 
