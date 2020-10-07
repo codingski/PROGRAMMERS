@@ -55,5 +55,5 @@ function solution(participant, completion){
 /*
     이렇게 만들면 for문 안에서 복잡한 메소드가 실행되지 않아 효율성이 좋아진다.
     https://velog.io/@noyo0123/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-javascript-%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80-%EB%AA%BB%ED%95%9C-%EC%84%A0%EC%88%98-otk2fxojro
-    블로그 글을 참고해서 map 에 대한 공부를 해야겠다.
+    블로그 글을 참고해서 map, hash table 에 대해 자세히 알아봐야겠다.
 */
