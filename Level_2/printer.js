@@ -1,3 +1,4 @@
+//
 function solution(priorities, location){
     let array = priorities;
     let Location = location;
